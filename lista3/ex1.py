@@ -1,5 +1,3 @@
-print("Digite dois números: ")
-
 x = int(input())
 y = int(input())
 
